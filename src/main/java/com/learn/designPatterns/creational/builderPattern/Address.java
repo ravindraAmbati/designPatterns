@@ -81,7 +81,7 @@ public class Address {
                 '}';
     }
 
-    public static class Builder {
+    public static final class Builder {
 
         private String firstLine;
         private String street;
